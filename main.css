@@ -193,7 +193,7 @@ button {
     display: flex;
 }
 .promo__image {
-    background-image: url('/img/promo.jpg');
+    background-image: url('img/promo.jpg');
     background-size: cover;
     width: 50%;
     flex-shrink: 0;
